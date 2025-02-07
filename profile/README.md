@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/8fcbc238-5189-4443-b586-5c3eee8c1ceb" alt="logo" width="50" style="margin-top: 30px; height: auto;" /> AutoRepo , 깃허브 세팅을 자동으로 편하게!
+# <img src="https://github.com/user-attachments/assets/8fcbc238-5189-4443-b586-5c3eee8c1ceb" alt="logo" width="40" style="margin-top: 30px; height: auto;" /> AutoRepo , 깃허브 세팅을 자동으로 편하게!
 
 <br>
 <img src="https://velog.velcdn.com/images/hanni/post/fb8ea412-418c-4b13-9a7c-5b3ad14444e2/image.png" width="800" style="height: auto; object-fit: cover;">
