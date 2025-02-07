@@ -18,7 +18,7 @@
 - ### 라벨 생성 및 관리
 
   <br> 
-  <img src="https://velog.velcdn.com/images/hanni/post/07ec5ef3-d8b5-4485-8bfc-a151e43904da/image.png" width="800" style="height: auto; object-fit: cover;">
+  <img src="https://velog.velcdn.com/images/hanni/post/9415ff77-c16e-4236-a52e-87521650f66a/image.gif" width="800" style="height: auto; object-fit: cover;">
   <br> 
   <img src="https://velog.velcdn.com/images/hanni/post/09b45cc5-81e5-4b2d-8cd0-193ac8c1b0b2/image.png" width="800" style="height: auto; object-fit: cover;">
   <br> 
